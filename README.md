@@ -29,7 +29,7 @@ See the [JavaScript language guide for CircleCI here](https://circleci.com/docs/
 5. `npm run cover` - generates test coverage report
 
 6. `npm run lint` - runs linter to check for lint errors
-
+7777777
 ## File Structure
 
 ### Webpack Configs
